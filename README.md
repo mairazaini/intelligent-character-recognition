@@ -24,4 +24,4 @@ The system allows users to upload an image, select a model, and view the predict
    # Activate on Mac/Linux:
    source venv/bin/activate
 
-Role: Contributor, implemented core algorithms and GUI integration Project Overview: GUI-based system recognizing handwritten digits (0–9) using SVM and CNN (LeNet-5). Users can upload images, select the model, and see predictions with confidence scores.
+Role: Contributor
